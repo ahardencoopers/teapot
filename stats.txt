@@ -1,0 +1,118 @@
+Ruby gems
+	sinatra: A lightweight DSL built with rack to create web applications.
+	json: Gem to create JSON in Ruby.
+	bcrypt: Ruby implementation of the blowfish password hashing function.
+	open-uri: HTTP and HTTPS wrapper to open URLs as files in Ruby.
+	nokogiri: HTML, XML, SAX and Reader parser
+	htmlentities: UTF-8 escaping
+	mongo: Official MongoDB driver for Ruby
+	socket: Access to operating system sockets
+
+
+Project file and directory structure
+	Ruby files
+		app.rb
+		data.rb
+		scrape.rb
+		view.rb
+
+	Build files
+		Makefile
+
+	Folders
+		public
+			img
+			js
+		
+	Miscellanous files
+		readme.txt
+		stats.txt
+		LICENSE
+		README.md
+		stats.txt
+
+	HTML files (located in /public folder)
+		add_video.html
+		browse_followed.html
+		browse_users.html
+		collection.html
+		detailed.html
+		edit_profile.html
+		error.html
+		follower_leaderboard.html
+		home.html
+		index.html
+		login.html
+		recently-added.html
+		register.html
+		user_collection.html
+		user_detailed.html
+		video_leaderboard.html
+
+	Javascript files (located in /public/js folder)
+		add_video.js
+		bootstrap.js
+		browse_followed.js
+		browse_users.js
+		collection.js
+		detailed.js
+		edit_profile.js
+		follower_leaderboard.js
+		home.js
+		login.js
+		recently_added.js
+		register.js
+		user_collection.js
+		user_detailed.js
+		video_leaderboard.js
+
+	Bootstrap and JQuery files
+		bootstrap.min.js
+		css
+		fonts
+		jquery.js
+
+Lines of source code
+	Ruby
+		app.rb 		267
+		data.rb		93
+		scrape.rb 	62
+		view.rb		305
+		Total		727
+
+	HTML
+		add_video.html				85
+		browse_followed.html		83
+		browse_users.html			83
+		collection.html				84
+		detailed.html				78
+		edit_profile.html			92
+		error.html					53
+		follower_leaderboard.html	83
+		home.html					120
+		index.html					62
+		login.html					60
+		recently-added.html			84
+		register.html				63
+		user_collection.html		82
+		user_detailed.html			79
+		video_leaderboard.html		83
+		Total						1274
+
+	 Javascript
+		 add_video.js				28
+		 browse_followed.js			74
+		 browse_users.js			75
+		 collection.js				77
+		 detailed.js				34
+		 edit_profile.j				36
+		 follower_leaderboard.js	74
+		 home.js					16
+		 login.js					29
+		 recently_added.js			17
+		 register.js				31
+		 user_collection.js			97
+		 user_detailed.js			35
+		 video_leaderboard.js		75
+		 Total						698
+
